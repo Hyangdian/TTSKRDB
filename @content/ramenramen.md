@@ -6,7 +6,7 @@ thumbnail: "images/ramenramen/라멘라멘.jpg"
 players: "1-4"
 ---
 # 라멘! 라멘!
-![게임 이미지](images/ramenramen/라멘라멘.jpg)
+<img src="https://raw.githubusercontent.com/Hyangdian/TTSKRDB/master/@content/images/ramenramen/라멘라멘.jpg" width = 400>
 
 # 게임 플레이 방법
-아아아아아
+추가 예정
